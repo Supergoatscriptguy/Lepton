@@ -2,7 +2,7 @@
 
 **Lightweight Efficient Processing Transformer with Optimized Neurons**
 
-An experimental LLM architecture I'm building from scratch. It has some ideas I've been wanting to try out that I haven't seen in other models.
+An experimental LLM architecture I'm building from scratch. It has some ideas I've been wanting to try out that I haven't seen in other models. One of the Acceleron series alongside [Tachyon](https://github.com/Supergoatscriptguy/Tachyon) (MoE) and [Pion](https://github.com/Supergoatscriptguy/Pion) (dense).
 
 ## The Ideas
 
